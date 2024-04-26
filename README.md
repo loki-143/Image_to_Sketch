@@ -6,12 +6,14 @@ Upload an image in PNG, JPG, or GIF format
 Adjust contrast and brightness settings for the sketch conversion
 Preview the processed image in real-time
 Save the processed image in JPG or PNG format
+
 Requirements:
 Python 3.x
 tkinter library
 PIL (Python Imaging Library)
 OpenCV library (cv2)
 numpy library
+
 Usage:
 Run the application
 Upload an image by clicking on the "Upload Image" button.
